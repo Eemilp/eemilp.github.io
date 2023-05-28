@@ -45,7 +45,7 @@ disableImageOptimization = false
   layoutBackgroundBlur = false # only used when layout equals background
 
 [article]
-  showDate = false
+  showDate = true
   showViews = false
   showLikes = false
   showDateUpdated = false
@@ -77,12 +77,12 @@ disableImageOptimization = false
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
-  showSummary = false
+  showSummary = true
   showViews = false
   showLikes = false
   showTableOfContents = false
   showCards = false
-  groupByYear = true
+  groupByYear = false
   cardView = false
   cardViewScreenWidth = false
   constrainItemsWidth = false
