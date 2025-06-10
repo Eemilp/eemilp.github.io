@@ -1,4 +1,4 @@
 # Hi!
 ## I'm Eemil Praks.
 
-An engineering physics student and researcher at Aalto university, photographer, and technology enthusiast.
+An engineering physics student and a researcher at Aalto university.
