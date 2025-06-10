@@ -1,5 +1,4 @@
 theme = "blowfish"
-baseURL = 'http://eemilp.github.io/'
+baseURL = 'http://e.praks.fi/'
 languageCode = 'en'
 title = 'Eemil Praks'
-author.name = 'Eemil Praks'
